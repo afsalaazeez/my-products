@@ -1,0 +1,2 @@
+customerId,paymentId,amount,scheduledDate,sourceAccountId,targetAccountId,recurringOptions
+"1045304","744a77644d67e891","100","1617148800000","1042347","1043699","{""amountType"":""Fixed"",""frequency"":{""iterate"":""Weekly"",""duration"":{""numberOfTransfers"":3}},""updateTransferType"":""Next""}"
